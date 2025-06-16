@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ibrahimafridi7.
-- 👀 I’m interested in backend.
-- 🌱 I’m currently learning android dev.
+- 👀 I’m interested in frontend and backend.
+- 🌱 I’m currently android dev and web dev.
+- (Java,Kotlin,React,Nextjs,Tailwindcss,Typescript,Javascript)
 - 📫 How to reach me just msg me here.
 
 <!---
