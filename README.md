@@ -7,7 +7,7 @@ Full-Stack Developer | AI-Powered Development - Agents
 
 Hi there! I'm Ibrahim, a passionate Full-Stack Developer & Gen AI who loves building modern, fast, and scalable digital experiences.
 
-👀 Interested in Frontend + Backend + Cloud
+👀 Interested in Frontend + Backend + Google Cloud
 
 🌱 Currently improving in Gen AI Application Agents & Web Dev (React/Next.js)
 
