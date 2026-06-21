@@ -1,15 +1,15 @@
 <div align="center">✨ Muhammad Ibrahim ✨
 Full-Stack Developer | AI-Powered Development - Agents
 
-<sub>TypeScript • Java • Kotlin • C++ • React • Next.js • Angular • Tailwind • Shopify • WordPress • Google Cloud</sub>
+<sub>TypeScript • Python • React • Next.js • Tailwind • Google Cloud • Google Cloud Agent Platform • Knowledge of (C++ • Java • Kotlin • Shopify • WordPress • Angular) </sub>
 
 🚀 About Me
 
-Hi there! I'm Ibrahim, a passionate Full-Stack & Android Developer who loves building modern, fast, and scalable digital experiences.
+Hi there! I'm Ibrahim, a passionate Full-Stack Developer & Gen AI who loves building modern, fast, and scalable digital experiences.
 
-👀 Interested in Frontend + Backend
+👀 Interested in Frontend + Backend + Cloud
 
-🌱 Currently improving in Android (Java/Kotlin) & Web Dev (React/Next.js)
+🌱 Currently improving in Gen AI Application Agents & Web Dev (React/Next.js)
 
 🤖 Learning and exploring AI-powered apps & cloud technologies
 
