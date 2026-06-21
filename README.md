@@ -1,5 +1,5 @@
 <div align="center">✨ Muhammad Ibrahim ✨
-Full-Stack Developer | Android Developer | AI-Powered Development
+Full-Stack Developer | AI-Powered Development - Agents
 
 <sub>TypeScript • Java • Kotlin • C++ • React • Next.js • Angular • Tailwind • Shopify • WordPress • Google Cloud</sub>
 
